@@ -22,11 +22,11 @@ A simple Node.js HTTP server that greets the user based on the current time of d
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Malihafatima1/greeting-server
 
     Navigate into the project folder:
 
-cd <project-folder>
+    cd <project-folder>
 
 Start the server:
 
